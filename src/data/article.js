@@ -2041,7 +2041,7 @@ We must also participate in political affairs. If Christians keep insisting that
         image: "/women.jpg",
         date: "October 27, 2026",
         readTime: "6 min read",
-        category: "Society & Culture.",
+        category: "Society & Culture",
         author: "Chizzy",
         excerpt: "Standing for women shouldn't depend on the labels we carry or the titles we hold. It's about recognizing inequality, challenging harmful stereotypes, and choosing to speak up when it matters. True advocacy isn't defined by what we call ourselves, but by the values we uphold and the actions we take.",
         content: [
@@ -2078,6 +2078,78 @@ Recognizing the dignity of women, demanding equal respect in relationships, and 
             {
                 type: "paragraph",
                 text: "Do we need socio-political labels to advocate for human decency and respect? How do we balance fighting for women’s leadership with preserving personal values and stable homes? Let’s talk about it in the comments below."
+            }
+        ]
+    },
+    {
+        id: 37,
+        slug: "the-illusion-of-knowing-why-information-is-failing-us-and-what-true-power-looks-like",
+        title: "The Illusion of Knowing: Why Information is Failing Us and What True Power Looks Like",
+        image: "/fake-news.jpg",
+        date: "October 27, 2026",
+        readTime: "8 min read",
+        category: "Society & Culture",
+        author: "Chizzy",
+        excerpt: "In a world overflowing with information, knowing more doesn't necessarily mean understanding better. We consume facts, opinions, and endless streams of content, yet often mistake awareness for wisdom. This article explores the illusion of knowledge, why information alone cannot empower us, and how true power lies in critical thinking, deep understanding, and the ability to turn what we know into meaningful action.",
+        content: [
+            {
+                type: "paragraph",
+                text: `We have all heard the famous phrase: "Knowledge is power." We are taught this in school, and we accept it without questioning. We think that just because we know something, we have control over our lives.
+But this way of thinking is actually trapping us.
+The biggest trick happening right now is the one our own minds are playing on us. Today, our minds have become our greatest enemy. We often look for outside enemies to blame for our problems. But the truth is, we aren't fighting other people; we are fighting ourselves. Taking control of your mind and disciplining your thoughts is the hardest battle you will ever fight. What you choose to think about and what you allow into your mind is completely up to you.
+But that is a conversation for another day. Today, let’s talk about what real power actually means.`
+            },
+            {
+                type: "heading",
+                text: "Knowledge vs. Wisdom"
+            },
+            {
+                type: "paragraph",
+                text: `People always say knowledge is power, but the truth is wisdom is the real power.
+Knowledge is just gathering information. Wisdom is actually using that information to change things. True power doesn't come from what you know; it comes from what you do with what you know.
+Our generation has more information than any generation before us. We are constantly flooded with news, social media posts, and facts. But all this information has actually paralyzed us. We have become a generation that knows everything but does nothing. We collect facts like trophies, but we never put them into practice.`
+            },
+            {
+                type: "heading",
+                text: "The Nigerian Example: Knowing But Not Doing"
+            },
+            {
+                type: "paragraph",
+                text: `Look at Nigeria to see exactly how this works. Every young person in this country knows the formula for political change. They know that if they get their PVC (Permanent Voter’s Card), come out to vote, and stand to defend those votes, they can challenge the government. The steps are clear to everyone.
+Yet, so many people still find it too hard to just go out and get their PVC. They find it hard to believe that showing up at a voting center will actually make a difference.
+Look at the irony: they have the knowledge, but they don't have the belief.
+When you talk to people, they always say the same thing: "Even if we come out and stand, the government will still win."
+Why do they say this? Because they have already lost the war inside their own heads. Long before election day even arrives, they have already decided that nothing they do matters and that the government will always win. They surrender before the fight even begins.`
+            },
+            {
+                type: "heading",
+                text: "The War in the Mind"
+            },
+            {
+                type: "paragraph",
+                text: `This mental trap is a prison we build for ourselves. It matches the words of Jocko Willink, a famous retired Navy SEAL: "Other than death, all defeat is psychological."
+Bad leaders and broken systems stay in power not because they are impossible to beat, but because they have convinced us that fighting back is useless. When you accept defeat in your mind, your hands stop working. Your knowledge becomes completely useless.
+If we want to see a new reality; whether in our own lives or in Nigeria; we must close the gap between what we know and what we do. Knowledge is not the finish line. True power belongs to the people who take what they know and turn it into real, physical action. It is time to cure the defeat in our minds, step out of our fears, and start using our wisdom.`
+            }
+        ]
+    },
+    {
+        id: 38,
+        slug: "the-things-we-avoid-where-growth-greatness-and-freedom-truly-begin",
+        title: "The Things We Avoid: Where Growth, Greatness, and Freedom Truly Begin",
+        image: "/never-give-up.jpg",
+        date: "October 30, 2026",
+        readTime: "3 min read",
+        category: "Spiritual Growth",
+        author: "Chizzy",
+        excerpt: "",
+        content: [
+            {
+                type: "paragraph",
+                text: `Everything we want is in the things we avoid.
+There is no gain without pain; the only way to the roses is through the thorns. We view the pain, disappointments, stress, and difficult routes we try to avoid as mere suffering, yet it is that very suffering that brings the crown. Even Jesus suffered for us so that we might be saved, and His name is now glorified above every other name.
+The little things we tend to ignore, the tiny details we fail to notice; that is where freedom truly lies. Everyone thinks an effort must be massive to produce greatness, but it isn't always about being loud. Sometimes, it is about being steady, quiet, and even slow.
+The time we neglect to spend with Jesus, the time we don't spend in His Word, the time we fail to give to our books, and our failure to put the little things we have learned into practice; it all eventually shows. Ironically, real results achieve far greater visibility through these small details than through the massive efforts we think are required.`
             }
         ]
     }
