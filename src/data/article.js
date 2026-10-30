@@ -2142,7 +2142,7 @@ If we want to see a new reality; whether in our own lives or in Nigeria; we must
         readTime: "3 min read",
         category: "Spiritual Growth",
         author: "Chizzy",
-        excerpt: "",
+        excerpt: "Everything we desire may lie on the other side of the things we avoid. Growth requires sacrifice, greatness demands consistency, and true freedom is often found in the little things we overlook. Through faith in Jesus, discipline, and the quiet practice of what we learn, we discover that lasting transformation doesn't always come from massive efforts, but from small, intentional steps taken every day.",
         content: [
             {
                 type: "paragraph",
