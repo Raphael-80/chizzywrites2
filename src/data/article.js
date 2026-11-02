@@ -2152,5 +2152,54 @@ The little things we tend to ignore, the tiny details we fail to notice; that is
 The time we neglect to spend with Jesus, the time we don't spend in His Word, the time we fail to give to our books, and our failure to put the little things we have learned into practice; it all eventually shows. Ironically, real results achieve far greater visibility through these small details than through the massive efforts we think are required.`
             }
         ]
+    },
+    {
+        id: 39,
+        slug: "from-daily-bread-to-the-whole-bakery",
+        title: "From Daily Bread to the Whole Bakery",
+        image: "/bread.jpg",
+        date: "October 31, 2026",
+        readTime: "6 min read",
+        category: "Spiritual Growth",
+        author: "Chizzy",
+        excerpt: "Sometimes, we settle for daily bread when God wants to show us the abundance of His provision. Moving from the daily bread to the whole bakery is about shifting our perspective from survival to purpose, from receiving blessings to understanding the responsibility that comes with them. It challenges us to recognize God's ability to do more than we imagine and to grow in faith, wisdom, and stewardship as we embrace the fullness of what He has prepared for us.",
+        content: [
+            {
+                type: "paragraph",
+                text: "The shift in prayer that turns consumers into kingdom partners"
+            },
+            {
+                type: "paragraph",
+                text: `"Dear Abba,
+Today, I am saying thank you for your love and care. Thank you for always showing up for me.
+Today, I won’t ask for daily bread. Instead, I will ask for what you want me to do for you. What burdens you, Abba? What would you want me to do?
+Burden me with what burdens you."`
+            },
+            {
+                type: "paragraph",
+                text: `These were the prayers I made to God for His needs to be mine. And the longer I prayed this way, the more I felt urged to pray and urged to evangelise. The more God's Spirit pushed me to do good things, the less I minded what I would get in return.
+As sons and daughters of God, and as people who claim to love Him, one of the things that moves God to meet our needs even without us asking; is when we decide to meet His needs. It happens when we ask Him, "What do you want?" rather than, "Do this for me."
+In a family setting, there are parents and children. Each child has the right to approach their father and ask for something, and immediately those needs are met.`
+            },
+            {
+                type: "paragraph",
+                text: `But think about it: it is only babies who do nothing but ask.
+In a physical family, babies are never given responsibilities. They just sit, consume, and depend entirely on others without wanting to contribute. In as much as our generation constantly runs away from responsibility, the truth is that responsibility is exactly what drives our growth. It stretches us, matures us, and ultimately unlocks the hidden treasures and riches that God has installed for us. When we remain spiritual babies, we remain locked out of our inheritance because we haven't grown enough to carry it.
+Now, imagine you are a father. Your kids ask you for things every day, and you go out to work for them, making sure their needs are met before they even have to ask. But then, imagine one of your children grows up, comes up to you, and says, "Dad, is there anything you want? What can I do for you today?"
+How would you feel?`
+            },
+            {
+                type: "paragraph",
+                text: `Or imagine that even without asking, your child goes out of their way to make sure your dinner is ready before you get home. They aren't doing it because they were told to, or because it is a routine, but purely out of love for you. They do your laundry once it's due and make sure you are comfortable and happy in the little ways they can assist.
+Without playing favorites, you will naturally notice that child. When you buy things for the rest of the family, you might find yourself doing a little extra for the one who showed concern for you. Naturally, you start going the extra mile for them, not because they are loved more, but because they genuinely cared for you.`
+            },
+            {
+                type: "paragraph",
+                text: `This applies directly to our Father in heaven. The great men and women of God we see today all graduated from merely asking for daily bread to asking what God wants. And because they cared for His heart, God didn't just give them daily bread; He gave them the whole bakery. Why? Because He "trusts" they can handle it.
+God cannot entrust you with great spiritual or physical riches if you haven't proved you can handle the responsibility of the little things. As the scripture says, he who is faithful in little will be faithful in much.
+As much as God loves us, He wants us to stop acting like spiritual infants and start taking responsibility in the house. He wants us to ask Him for what burdens Him, not just what we want. He wants our prayers to go beyond "give us our daily bread," because He already knows He will make that available to us every single day, even without us asking.
+If we want God to go the extra mile for us, we must be willing to go the extra mile for Him.`
+            }
+        ]
     }
 ]
