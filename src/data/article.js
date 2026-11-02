@@ -2201,5 +2201,104 @@ As much as God loves us, He wants us to stop acting like spiritual infants and s
 If we want God to go the extra mile for us, we must be willing to go the extra mile for Him.`
             }
         ]
+    },
+    {
+        id: 40,
+        slug: "struggling-with-same-sex-attraction-as-a-christian",
+        title: "Struggling With Same-Sex Attraction as a Christian.",
+        image: "/gay.jpg",
+        date: "November 2, 2026",
+        readTime: "7 min read",
+        category: "Spiritual Growth",
+        author: "Chizzy",
+        excerpt: "Navigating same-sex attraction as a Christian can bring questions about faith, identity, and one's relationship with God. This article explores the personal and spiritual challenges that may arise when experiencing same-sex attraction while seeking to remain grounded in Christian beliefs. Through faith, reflection, and a deeper understanding of God's grace, it considers how believers can navigate these experiences with honesty, compassion, and spiritual growth.",
+        content: [
+            {
+                type: "heading",
+                text: "Understanding lust, unwanted thoughts, spiritual discernment and the importance of guarding your heart."
+            },
+            {
+                type: "paragraph",
+                text: "You're a Christian girl, and you're struggling with lust. Then, gradually, things begin to take a different turn. You start experiencing attraction towards the same gender. Like a thought, it creeps in slowly. You begin imagining doing things with her; you admire her. Everything seems okay in the moment, but then you snap back to reality."
+            },
+            {
+                type: "paragraph",
+                text: `"I'm not supposed to be thinking about this. These thoughts are becoming lustful. I'm God's daughter; I can't be partaking in this."
+Goosebumps rush over you. You're back in reality, hearing the sound of your own heartbeat, feeling your adrenaline spike. Your fight-or-flight response kicks in, and the overthinking begins:`
+            },
+            {
+                type: "paragraph",
+                text: `
+"Am I really God's daughter? Will He ever forgive me? Maybe He's disgusted with me right now. What will I do?"`
+            },
+            {
+                type: "paragraph",
+                text: `And then another voice whispers:
+"Don't you know this is your identity? It's who you are. That's why, even in Christ, it can't be swayed away. It's in you. He can't take it away." But you must remember who you are in Christ.`
+            },
+            {
+                type: "paragraph",
+                text: `Scripture says:
+
+"For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him." — 2 Corinthians 5:21 (KJV).`
+            },
+            {
+                type: "paragraph",
+                text: "No matter what floods your mind, you can bring your thoughts before God and allow His Word to guide you. The Bible tells us in 2 Corinthians 10:4–5 that the weapons of our warfare are mighty through God, capable of pulling down strongholds, casting down arguments and bringing every thought into captivity to the obedience of Christ."
+            },
+            {
+                type: "paragraph",
+                text: `But alas, the Holy Spirit brought something to my attention: the things we expose ourselves to can influence the thoughts we entertain.
+
+Consider three pathways through which information enters our lives:`
+            },
+            {
+                type: "list",
+                text: [
+                    "The Eyes",
+                    "The Ears",
+                    "The Mouth"
+                ]
+            },
+            {
+                type: "heading",
+                text: "The eyes!"
+            },
+            {
+                type: "paragraph",
+                text: "He drew my attention particularly to the eyes. They are delicate organs, yet they serve as significant gateways through which information enters our minds. He brought to mind the movies we watch and how they sometimes include scenes of same-sex kisses, marriages and romance."
+            },
+            {
+                type: "paragraph",
+                text: `"Is it normal?" He asked. And guess what? Sometimes, these scenes seem entirely harmless. You watch an otherwise good movie, and suddenly, there's a scene where a guy kisses a guy or a girl kisses a girl. Sometimes, the storyline explores their romantic experiences and relationships. I repeat: the question is not whether we should treat people with contempt or fear every scene we encounter. Rather, are we being intentional about what we consume and how it shapes our thinking? 
+                What we repeatedly expose ourselves to can influence our perceptions, conversations and imagination. The eyes are a gateway through which information reaches the heart. What you see, what you hear and even what you say can become material for your thoughts. And the heart? It is fertile ground.`
+            },
+            {
+                type: "paragraph",
+                text: `This is why Scripture says:
+
+"Keep thy heart with all diligence; for out of it are the issues of life." — Proverbs 4:23 (KJV).`
+            },
+            {
+                type: "paragraph",
+                text: "The issues of life... Hmmm. Isn't that deep enough? We must learn to guard our hearts. Not through fear, shame or condemnation, but through wisdom, discernment and a willingness to allow God's Word to shape our lives. And when unwanted thoughts arise, remember that their presence does not mean God has abandoned you. You can approach Him with confidence, knowing that His grace is sufficient."
+            },
+            {
+                type: "list",
+                text: [
+                    "Reflect.",
+                    "Ponder",
+                    "Meditate"
+                ]
+            },
+            {
+                type: "paragraph",
+                text: `The enemy seeks to draw our hearts away from God. He wants our attention, our affection and our allegiance.
+
+But we must not become so preoccupied with the battle that we lose sight of the One who gives us victory.
+
+Keep your heart. Guard your mind. And above all, keep your eyes fixed on Jesus.`
+            }
+        ]
     }
 ]
